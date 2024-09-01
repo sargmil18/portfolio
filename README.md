@@ -1,2 +1,2 @@
-# milenasargsyan_portfolio
-milenasargsyan.github.io/portfolio
+# milenasargsyan.github.io
+milenasargsyan.github.io
